@@ -1,6 +1,6 @@
 # PCRNet: Progressive Correlation Refinement for Few-Shot Hyperspectral Image Classification
 
-The source code for our new work on Few-Shot Hyperspectral Image Classification tasks. The details will be reported after the publication.
+The source code for our new work on Few-Shot Hyperspectral Image Classification tasks. The details will be reported after the acceptance.
 
 ## Datasets
 
