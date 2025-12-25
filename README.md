@@ -17,5 +17,5 @@ The source code for our new work on few-shot hyperspectral image classification 
     └── WHU_Hi_HanChuan.mat
 
 ```
-1) Run "trainMetaDataProcess.py" to generate the meta-training data "Patch9_TRIAN_META_DATA.pickle". And you can choose to download the meta-training data through Quark Netdisk (link: https://pan.baidu.com/s/1i6SV57db3k4ErZs0UKyUeA?pwd=iykv)
-2) Run "python DFHE.py".
+1) Run "trainMetaDataProcess.py" to generate the meta-training data "Patch9_TRIAN_META_DATA.pickle". And you can choose to download the meta-training data through Baidu Netdisk (link: https://pan.baidu.com/s/1i6SV57db3k4ErZs0UKyUeA?pwd=iykv)
+2) Run "python pcrnet.py".
